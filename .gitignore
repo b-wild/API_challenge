@@ -1,8 +1,11 @@
+# Adding config.py file.
+Starter_Code/starter_code/api_keys.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-config.py
+
 # C extensions
 *.so
 
